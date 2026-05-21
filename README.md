@@ -1,5 +1,5 @@
 # Hi there! <img src="https://slackmojis.com/emojis/11711-kirby_vibing/download" width="30"/>
-I’m Ozan, a full-stack developer and aspiring SWE based in the United States.
+I’m Ozan, a DevOps Engineer based in the United States.
 
 I'm passionate about building systems that deliver tangible impact, with a strong focus on applying my content/social media skills to software development and growth
 
